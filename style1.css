@@ -1,0 +1,60 @@
+.sport
+{
+    color: black;
+    font-family: AudiTypeExtended,sans-serif;
+    letter-spacing : normal; letter-spacing : 5px;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+body {
+    color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+    }
+
+.blanc 
+{
+  background-color: white; 
+  height: 70px;
+  width: 100%;
+  border: 2px solid white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.Summum
+{
+    color: black;
+    height: 120px;
+    width: 60%;
+    text-align: center;
+    font-family: AudiTypeWide,sans-serif;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+}
+
+.audi
+{
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.titre
+{
+    
+    z-index: 1;
+    position: absolute;
+    text-align: left;
+    font-family: Georgia;
+    margin: 40px;
+    left: 0;
+    right: 0;
+    top: 70%;
+    color: white;
+    width: 70%;
+}
